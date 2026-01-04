@@ -1,2 +1,3 @@
 # Nexura-ptv-Streams-Repostory
 Türkçe yayınlar https://github.com/iptv-org/iptv/blob/master/streams/tr.m3u sitesinden alınmıştır.
+DİKKAT!: BU PLATFORM SADECE KULLANICI İÇİNDİR. NEXURA İPTV İSE BİR OYNATICIDIR. BURADAKİ tr.m3u DOSYASI TAMAMEN YASAL OLUP İLLEGAL KANAL LİSTESİ EKLEME DURUMUNDA SORUMLULUK KULLANICIYA AİTTİR. BAZI KANALLAR ÇALIŞMAYABİLİR.
